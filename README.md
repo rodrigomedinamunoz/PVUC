@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Veterinary Management System Mockup
 
@@ -9,3 +10,7 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# PVUC
+Plataforma Veterinaria Unificada y Centralizada
+>>>>>>> d287da33e12cfc74952fa296ff288c83e66a7cb6
